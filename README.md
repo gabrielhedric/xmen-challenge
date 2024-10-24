@@ -17,8 +17,8 @@
 ```
 git clone git@github.com:gabrielhedric/xmen-challenge.git
 ```
-- Acessar aplicação em endereço IPv4 público: `18.222.25.113`.
-- Acessar aplicação pelo DNS Ipv4 público: `ec2-18-222-25-113.us-east-2.compute.amazonaws.com`.
+- Acessar aplicação em endereço IPv4 público: `http://18.222.25.113:8080/mutant`.
+- Acessar aplicação pelo DNS Ipv4 público: `http://ec2-18-222-25-113.us-east-2.compute.amazonaws.com:8080/mutant`.
 
 ### Acessando localmente
 
