@@ -19,4 +19,9 @@ public class GlobalExceptionHandler {
         return new ResponseEntity<>(ex.getMessage(), HttpStatus.BAD_REQUEST);
     }
 
+    @ExceptionHandler(MutantAlreadyValidatedException.class)
+    public ResponseEntity<String> handleMutantAlreadyValidateException(MutantAlreadyValidatedException ex) {
+        return new ResponseEntity<>(ex.getMessage(), HttpStatus.CONFLICT);
+    }
+
 }
