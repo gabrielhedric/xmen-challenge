@@ -30,7 +30,7 @@ git clone git@github.com:gabrielhedric/xmen-challenge.git
 
 ## Arquitetura
 
-![Desenho de Arquitetura](.github/Arquitetura%Xmen-Challenge.png)
+![Desenho de Arquitetura](.github/Arquitetura%20Xmen-Challenge.png)
 
 ## API
 
