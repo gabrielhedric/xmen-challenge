@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.xmen</groupId>
-	<artifactId>XmenChallenge</artifactId>
+	<artifactId>xmen-challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>XmenChallenge</name>
 	<description>XmenChallenge for MELI</description>
